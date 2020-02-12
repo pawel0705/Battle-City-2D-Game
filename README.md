@@ -20,3 +20,14 @@ Po zniszczeniu 10 przeciwników lub porażce gracz zostaje przeniesiony do podsu
 # Tryb - Create Map
 
 W tym trybie gracz może stworzyć swoją własną mapę (ale o ograniczonej wielkości). Gracz przesuwa czołgiem (strzałkami) co 64 piksele. Klikając spację wybiera blok, który ma zostać położony. Wybór zostaje zatwierdzony klawiszem "Enter". Jeżeli gracz nie zatwierdzi bloku (kliknie spację, strzałki) blok zostanie usunięty. Po kliknięciu "ESC" gracz zostaje przeniesiony do menu głównego, a jego mapa zostanie automatycznie zapisana. Jej nazwa (która jest ustawiana automatycznie) będzie widoczna na dole listy wyboru map. By usunąć mapę trzeba to zrobić ręcznie w plikach gry.
+
+# Zrzuty ekranu z rozgrywki
+
+![GitHub Logo](/images/battle3.jpg)
+
+![GitHub Logo](/images/battle4.jpg)
+
+![GitHub Logo](/images/battle5.jpg)
+
+![GitHub Logo](/images/battle6.jpg)
+
