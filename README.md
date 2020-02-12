@@ -31,3 +31,4 @@ W tym trybie gracz może stworzyć swoją własną mapę (ale o ograniczonej wie
 
 ![GitHub Logo](/images/battle6.jpg)
 
+![GitHub Logo](/images/battle7.jpg)
