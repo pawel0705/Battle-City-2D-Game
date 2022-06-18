@@ -23,12 +23,12 @@ W tym trybie gracz może stworzyć swoją własną mapę (ale o ograniczonej wie
 
 # Zrzuty ekranu z rozgrywki
 
-<img src='/images/battle3.jpg width='512'>
+<img src='/images/battle3.jpg' width='512'>
 
-<img src='/images/battle4.jpg width='512'>
+<img src='/images/battle4.jpg' width='512'>
 
-<img src='/images/battle5.jpg width='512'>
+<img src='/images/battle5.jpg' width='512'>
 
-<img src='/images/battle6.jpg width='512'>
+<img src='/images/battle6.jpg' width='512'>
 
-<img src='/images/battle7.jpg width='512'>
+<img src='/images/battle7.jpg' width='512'>
