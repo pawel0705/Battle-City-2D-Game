@@ -1,6 +1,6 @@
-# A-poorly-written-Battle-City-game
+# Battle-City-2D-Game
 
-Gra inspirowana grą-Battle City. Do jej napisania wykorzystano język C++ oraz multimedialną bibliotekę graficzną SFML 2.5.
+Gra inspirowana grą-Battle City. Do jej napisania wykorzystano język C++ oraz multimedialną bibliotekę graficzną SFML 2.5. Pierwsza gra, którą zrobiłem.
 
 # Sterowanie
 
@@ -23,12 +23,12 @@ W tym trybie gracz może stworzyć swoją własną mapę (ale o ograniczonej wie
 
 # Zrzuty ekranu z rozgrywki
 
-![GitHub Logo](/images/battle3.jpg)
+<img src='/images/battle3.jpg width='512'>
 
-![GitHub Logo](/images/battle4.jpg)
+<img src='/images/battle4.jpg width='512'>
 
-![GitHub Logo](/images/battle5.jpg)
+<img src='/images/battle5.jpg width='512'>
 
-![GitHub Logo](/images/battle6.jpg)
+<img src='/images/battle6.jpg width='512'>
 
-![GitHub Logo](/images/battle7.jpg)
+<img src='/images/battle7.jpg width='512'>
